@@ -3,7 +3,7 @@ require 'fileutils'
 
 domains = {
   frontend: 'y2aa-frontend.dev',
-  backend:  'y2aa-backend.dev'
+  backend:  'project-managment.dev'
 }
 
 config = {
